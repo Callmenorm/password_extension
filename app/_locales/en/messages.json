@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "password-extension",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Password manager encrypted client side",
+    "description": "The description of the application"
+  }
+}

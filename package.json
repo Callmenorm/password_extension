@@ -1,0 +1,70 @@
+{
+  "name": "password-extension",
+  "version": "1.0.0",
+  "description": "Password manager encrypted client side",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Callmenorm/password_extension.git"
+  },
+  "author": {
+    "name": "Michael Anderson",
+    "email": "normanganderson@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Callmenorm/password_extension/issues"
+  },
+  "homepage": "https://github.com/Callmenorm/password_extension#readme",
+  "dependencies": {
+    "react": "0.14.5",
+    "react-dom": "0.14.5"
+  },
+  "devDependencies": {
+    "add-transforms": "~1.0.0",
+    "babel-plugin-react-transform": "~1.1.1",
+    "babelify": "~6.4.0",
+    "browserify": "~12.0.1",
+    "concat-stream": "~1.5.1",
+    "config-prompt": "~1.0.0",
+    "envify": "~3.4.0",
+    "gulp-imagemin": "~2.4.0",
+    "gulp-zip": "~3.0.2",
+    "in-production": "~1.0.1",
+    "livereactload": "~2.1.0",
+    "livereactload-chrome": "~1.0.2",
+    "mocha": "~2.3.4",
+    "path-exists": "~2.1.0",
+    "react-proxy": "~1.1.1",
+    "react-router": "1.0.3",
+    "run-sequence": "~1.1.5",
+    "through2": "~2.0.0",
+    "trash": "~2.0.0",
+    "uglifyify": "~3.0.1",
+    "vinyl-imitate": "~1.0.0",
+    "watchify": "~3.6.1",
+    "meow": "~3.7.0",
+    "gulp": "~3.9.0",
+    "gulp-util": "~3.0.6",
+    "babel-core": "~5.8.33",
+    "glob": "~6.0.3"
+  },
+  "keywords": [
+    "client-side",
+    "encrypted",
+    "manager",
+    "password",
+    "react"
+  ],
+  "react": {
+    "routes": "./routes.js",
+    "rwb": "0.0.16"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.0.0"
+  }
+}

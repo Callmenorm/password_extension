@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Tr",
+				"trackerInfo"
+			],
+			[
+				"req",
+				"requestErrInterceptor	(bool)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/norm/code/node-generator-chrome-ninja/.gitignore",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/norm/code/node-generator-chrome-ninja/src/build/templates/scripts/es6/background.js",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/norm/code/node-generator-chrome-ninja/src/build/index.js",
+			"settings":
+			{
+				"buffer_size": 11677,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 352.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/norm/code/node-generator-chrome-ninja",
+		"/home/norm/code/node-generator-chrome-ninja/src",
+		"/home/norm/code/node-generator-chrome-ninja/src/app"
+	],
+	"file_history":
+	[
+		"/home/norm/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/norm/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/norm/code/password_extension/app/manifest.json",
+		"/home/norm/code/password_extension/app/lib/popup/index.js",
+		"/home/norm/code/password_extension/app/lib/popup/components/popup.js",
+		"/home/norm/code/password_extension/tasks/config.js",
+		"/home/norm/code/password_extension/app/lib/content-script/index.js",
+		"/home/norm/code/password_extension/app/lib/content-script/index.css",
+		"/home/norm/code/password_extension/package.json",
+		"/home/norm/code/password_extension/manifest.json",
+		"/tmp/day6.js",
+		"/tmp/day2.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/state/reducers.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/state/actions.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/index.js",
+		"/home/norm/code/feedtime/src/app/views/Tracker/components/mol.List/index.js",
+		"/home/norm/code/feedtime/src/app/views/Tracker/index.js",
+		"/tmp/day2input",
+		"/home/norm/code/feedtime/src/app/views/Tracker/state/reducers.js",
+		"/home/norm/code/feedtime/src/schema/index.js",
+		"/home/norm/code/feedtime/src/redux.reducers/index.js",
+		"/home/norm/code/feedtime/src/app/views/Tracker/state/actions.js",
+		"/home/norm/code/feedtime/src/redux.store/index.js",
+		"/home/norm/code/feedtime/package.json",
+		"/home/norm/code/feedtime/backend/src/routes.js",
+		"/home/norm/code/feedtime/backend/index.js",
+		"/home/norm/code/feedtime/src/app/components/org.Nav/index.js",
+		"/home/norm/code/feedtime/src/app/components/org.Nav/style.css",
+		"/home/norm/code/feedtime/src/index.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/components/org.TrackerTimeList/index.js",
+		"/home/norm/code/feedtime/src/utils.routing/index.js",
+		"/home/norm/code/feedtime/src/app/views/SimplePokemonForm/state/reducers.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/components/mol.AddTimeButton/index.js",
+		"/home/norm/code/feedtime/src/app/views/TrackerInfo/components/org.AddTimeButton/index.js",
+		"/home/norm/code/feedtime/src/app/views/Tracker/components/org.AddTrackerForm/index.js",
+		"/home/norm/code/feedtime/src/config.env/index.js",
+		"/home/norm/code/feedtime/src/config.routes/index.js",
+		"/home/norm/code/feedtime/src/app/views/Tracker/components/mol.List/style.css",
+		"/home/norm/code/feedtime/backend/gulpfile.js",
+		"/home/norm/code/feedtime/webpack.config.js",
+		"/home/norm/code/feedtime/src/app/index.js",
+		"/home/norm/code/feedtime/src/config.axios/index.js",
+		"/home/norm/code/feedtime/src/app/views/WildPokemon/state/actions.js",
+		"/home/norm/code/feedtime/src/app/views/WildPokemon/state/reducers.js",
+		"/home/norm/code/feedtime/src/app/views/WildPokemon/index.js",
+		"/home/norm/code/feedtime/src/app/components/org.Footer/index.js",
+		"/home/norm/code/feedtime/src/app/views/SimplePokemonForm/index.js",
+		"/home/norm/code/feedtime/src/app/state/reducers.js",
+		"/home/norm/code/feedtime/src/redux.middleware/api/index.js",
+		"/home/norm/code/feedtime/src/app/state/actions.js",
+		"/home/norm/code/feedtime/src/config.apiMiddleware/index.js",
+		"/home/norm/bin/sublime_text_3/feedtime.sublime-project",
+		"/home/norm/code/feedtime/backend/build/routes.js",
+		"/home/norm/code/feedtime/backend/src/dbConn.js",
+		"/home/norm/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/norm/.config/sublime-text-3/Packages/TernJS/TernJS.sublime-settings",
+		"/home/norm/.config/sublime-text-3/Packages/User/TernJS.sublime-settings",
+		"/home/norm/code/feedtime/src/utils.redux/index.js",
+		"/home/norm/code/feedtime/vagrant/Vagrantfile",
+		"/home/norm/code/feedtime/backend/build/dbConn.js",
+		"/home/norm/code/feedtime/backend/build/index.js",
+		"/home/norm/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/norm/code/feedtime/vagrant/vagrant_resources",
+		"/home/norm/.config/sublime-text-3/Packages/StandardFormat/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dom",
+			"react-router",
+			"createHashHistory",
+			"history",
+			"autobind",
+			"console.log",
+			"mERGE_TRACKER",
+			"console.log",
+			"Link",
+			"lodash",
+			"merge",
+			"state.trackers.tracker",
+			"state.trackers.tracekr",
+			"state.trackers.tracker",
+			"state.trackers.tracerk",
+			"redux.reducers",
+			"reducers",
+			"getTracker",
+			"getTracerk",
+			"getTracker",
+			"fetch(",
+			"console.log",
+			"fetch",
+			"linkto",
+			"console.log",
+			"linkto",
+			"newTracker",
+			"initApp",
+			"config.axios",
+			"axios",
+			"default",
+			"configEnv2",
+			"WildPokemon",
+			"WildPokemonView",
+			"actions",
+			"axios",
+			"middleware",
+			"configureApiMiddleware",
+			"redux.middleware",
+			"axios",
+			"combineReducers",
+			"createStore",
+			"createStoreWithMiddleware"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/norm/code/node-generator-chrome-ninja/.gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/norm/code/node-generator-chrome-ninja/src/build/templates/scripts/es6/background.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/norm/code/node-generator-chrome-ninja/src/build/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9084,
+								9084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 11
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 3822.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chrome_ninja.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.",
+				"app/lib/options/index.js"
+			],
+			[
+				"index.js",
+				"app/lib/content-script/index.js"
+			],
+			[
+				"index",
+				"app/lib/content-script/index.css"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"ma",
+				"app/manifest.json"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"ji",
+				"app/pages/home/components/JiraDisplay.js"
+			],
+			[
+				"das",
+				"app/pages/home/components/DashboardBar.js"
+			],
+			[
+				"home",
+				"app/pages/home/home.js"
+			],
+			[
+				"trackerin",
+				"src/app/views/Tracker/index.js"
+			],
+			[
+				"",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"trackere",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"routes",
+				"backend/src/routes.js"
+			],
+			[
+				"redux.re",
+				"src/redux.reducers/index.js"
+			],
+			[
+				"schema",
+				"src/schema/index.js"
+			],
+			[
+				"trackerre",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"trackerred",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"trackeraction",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"tracker",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"redu",
+				"src/redux.reducers/index.js"
+			],
+			[
+				"route",
+				"backend/src/routes.js"
+			],
+			[
+				"backendin",
+				"backend/index.js"
+			],
+			[
+				"backen",
+				"backend/index.js"
+			],
+			[
+				"trackerinfore",
+				"src/app/views/TrackerInfo/state/reducers.js"
+			],
+			[
+				"action",
+				"src/app/views/TrackerInfo/state/actions.js"
+			],
+			[
+				"navst",
+				"src/app/components/org.Nav/style.css"
+			],
+			[
+				"nav",
+				"src/app/components/org.Nav/index.js"
+			],
+			[
+				"trackerinf",
+				"src/app/views/TrackerInfo/index.js"
+			],
+			[
+				"trackeracti",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"trackeri",
+				"src/app/views/Tracker/index.js"
+			],
+			[
+				"trackerinfo",
+				"src/app/views/TrackerInfo/state/actions.js"
+			],
+			[
+				"trackerinfoaction",
+				"src/app/views/TrackerInfo/state/actions.js"
+			],
+			[
+				"trackerinfoin",
+				"src/app/views/TrackerInfo/index.js"
+			],
+			[
+				"trackerlist",
+				"src/app/views/Tracker/components/mol.List/index.js"
+			],
+			[
+				"reducer",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"reduc",
+				"src/redux.reducers/index.js"
+			],
+			[
+				"ac",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"reducers",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"trackeract",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"reduer",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"trackerinfored",
+				"src/app/views/TrackerInfo/state/reducers.js"
+			],
+			[
+				"trackertimelist",
+				"src/app/views/TrackerInfo/components/org.TrackerTimeList/index.js"
+			],
+			[
+				"backend",
+				"backend/index.js"
+			],
+			[
+				"addtime",
+				"src/app/views/TrackerInfo/components/mol.AddTimeButton/index.js"
+			],
+			[
+				"config",
+				"src/config.routes/index.js"
+			],
+			[
+				"org.nav",
+				"src/app/components/org.Nav/index.js"
+			],
+			[
+				"mol.lii",
+				"src/app/views/Tracker/components/mol.List/index.js"
+			],
+			[
+				"redux.store",
+				"src/redux.store/index.js"
+			],
+			[
+				"utils.routing",
+				"src/utils.routing/index.js"
+			],
+			[
+				"trackera",
+				"src/app/views/Tracker/state/actions.js"
+			],
+			[
+				"gulp",
+				"backend/gulpfile.js"
+			],
+			[
+				"addtracker",
+				"src/app/views/Tracker/components/org.AddTrackerForm/index.js"
+			],
+			[
+				"mol",
+				"src/app/views/Tracker/components/mol.List/index.js"
+			],
+			[
+				"config.en",
+				"src/config.env/index.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"in",
+				"backend/index.js"
+			],
+			[
+				"config.env",
+				"src/config.env/index.js"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"src",
+				"src/index.js"
+			],
+			[
+				"app",
+				"src/app/index.js"
+			],
+			[
+				"utils.route",
+				"src/utils.routing/index.js"
+			],
+			[
+				"config.route",
+				"src/config.routes/index.js"
+			],
+			[
+				"redux.red",
+				"src/redux.reducers/index.js"
+			],
+			[
+				"app/state/asc",
+				"src/app/state/actions.js"
+			],
+			[
+				"config.axio",
+				"src/config.axios/index.js"
+			],
+			[
+				"reduce",
+				"src/app/views/Tracker/state/reducers.js"
+			],
+			[
+				"pacak",
+				"package.json"
+			],
+			[
+				"utils.redux",
+				"src/utils.redux/index.js"
+			],
+			[
+				"dbconn",
+				"backend/src/dbConn.js"
+			],
+			[
+				"va",
+				"vagrant/Vagrantfile"
+			],
+			[
+				"dbcon",
+				"backend/build/dbConn.js"
+			],
+			[
+				"gul",
+				"backend/gulpfile.js"
+			],
+			[
+				"vagra",
+				"vagrant/vagrant_resources"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/bin/sublime_text_3/visiondashboard.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "templates",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
